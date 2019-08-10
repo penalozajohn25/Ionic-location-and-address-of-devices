@@ -1,6 +1,6 @@
 # Location and address of devices
 
-## Description 🚀
+## Description
 
 Geolocation service to capture latitude, 
 Length,location, altitude, of the device.
